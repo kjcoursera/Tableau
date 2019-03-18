@@ -1,4 +1,4 @@
 # Tableau
 
 EggProduction 
-![Plot1](figure/EggProduction_2017.PNG)
+![EggProduction_2017](figure/EggProduction_2017.PNG)
